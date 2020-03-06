@@ -10,9 +10,9 @@ Time spent: **15** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ x ] User can **view a list of todo items**
+* [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
-* [ x ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -26,17 +26,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://https://github.com/ajaboin/simpletodo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had problems with the push and with the video edit.
 
 ## License
 
-    Copyright [2020] [name of copyright owner]
+    Copyright [2020] [name of copyright Alexa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
